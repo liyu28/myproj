@@ -1,1 +1,3 @@
-# It is my project
+# My project
+
+This is an Economics project.
